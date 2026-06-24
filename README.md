@@ -193,9 +193,3 @@ python -m streamlit run app.py
 * Real-time Flight Data Integration
 
 ---
-
-## 👩‍💻 Author
-
-**Smriti**
-
-Aspiring Machine Learning Engineer | AWS & MLOps Enthusiast
