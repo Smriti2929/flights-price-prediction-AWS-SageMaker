@@ -1,1 +1,0 @@
-# Flight Prices Prediction using AWS SageMaker (End-to-End Machine Learning Project)
