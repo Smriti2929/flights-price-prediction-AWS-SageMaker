@@ -1,7 +1,7 @@
 numpy==2.5.0
 pandas==2.3.3
 scikit-learn==1.7.2
-streamlit==
+streamlit
 feature-engine==1.9.4
 xgboost==3.1.2
 joblib
