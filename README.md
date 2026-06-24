@@ -1,5 +1,9 @@
 # ✈️ Flight Price Prediction using AWS SageMaker
 
+## Live Demo
+🔗 Streamlit App:
+https://flights-price-prediction-aws-sagemaker-dau2cubgs9s4rue2mz45mg.streamlit.app/
+
 ## 📌 Project Overview
 
 This project predicts airline ticket prices using Machine Learning and demonstrates an end-to-end MLOps workflow using AWS SageMaker, Amazon S3, XGBoost, and Streamlit.
